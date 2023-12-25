@@ -1,4 +1,4 @@
 # apnacollge-demo
 This is my first git repository 
 <br>
-Author - Arslantariq
+Author - Arslan(apna collge)
